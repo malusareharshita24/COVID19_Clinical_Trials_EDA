@@ -4,20 +4,20 @@ This repository contains an end-to-end exploratory data analysis (EDA) of a glob
 
 🔍 Skills demonstrated:
 
-Data cleaning and transformation using Pandas
+- Data cleaning and transformation using Pandas
 
-Data visualization with Seaborn & Matplotlib
+- Data visualization with Seaborn & Matplotlib
 
-SQL queries for analytical insights
+- SQL queries for analytical insights
 
-Project structure for GitHub & professional portfolios
+- Project structure for GitHub & professional portfolios
 
 📊 Suitable for: Data Analyst / Data Scientist portfolios
 
 📁 Includes:
 
-Jupyter Notebook (.ipynb) for EDA
+- Jupyter Notebook (.ipynb) for EDA
 
-SQL analysis using SQLite
+- SQL analysis using SQLite
 
-Clean project directory with README.md, requirements.txt, .gitignore
+- Clean project directory with README.md, requirements.txt, .gitignore
